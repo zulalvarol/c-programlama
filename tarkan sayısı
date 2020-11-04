@@ -1,4 +1,4 @@
-// Girilen 4 basamaklı sayının rakamları toplamı çarpımından büyükse tarkan sayısıdır.
+// Girilen 4 basamaklÄ± sayÄ±nÄ±n rakamlarÄ± toplamÄ± Ã§arpÄ±mÄ±ndan bÃ¼yÃ¼kse tarkan sayÄ±sÄ±dÄ±r.
 #include<stdio.h>
 main(){
        
