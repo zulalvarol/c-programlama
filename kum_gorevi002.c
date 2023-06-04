@@ -1,6 +1,3 @@
-// Girilen 3 basamaklý sayýnýn rakamlarý toplamý eðer çiftse 2'ye böler, tek ise
-// 2 katýný alan program.
-
 #include<stdio.h>
 
 main(){
